@@ -3,7 +3,7 @@
 		8080
 	],
 	"tcp_ssl": [
-		8443
+		9443
 	],
 	"ssl_cert": "/etc/noobzvpns/cert.pem",
 	"ssl_key": "/etc/noobzvpns/key.pem",
